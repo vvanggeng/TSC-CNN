@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 25 16:26:13 2020
-
-@author: wg
-"""
-
 import keras
 import matplotlib.pyplot as plt
 import numpy as np
@@ -113,8 +106,8 @@ def lable_creat(kind_num,train_num,sensor_num,ispre):
         x=z
     return x
 
-
-Data_rootdir='C:/Users/wg/Desktop/TSC/data/2/'#数据路径
+#数据路径
+Data_rootdir='C:/Users/wg/Desktop/TSC/data/2/'
 
 #把数据文件分批喂入网络训练，确定每次喂多少
 Batch_size = 5
