@@ -11,6 +11,7 @@
 ## 1D-CNN
 
 无论是一维、二维还是三维，卷积神经网络（CNNs）都具有相同的特点和相同的处理方法。关键区别在于输入数据的维数以及特征检测器（或滤波器）如何在数据之间滑动，一维和二维CNN处理过程对比。
+![image](https://github.com/vvanggeng/TSC-CNN/blob/master/pic/cnn.png)
 
 ## 网络搭建
 
