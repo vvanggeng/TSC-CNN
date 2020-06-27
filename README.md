@@ -90,7 +90,7 @@ None
 
 数据下载见
 
-[data]: https://github.com/vvanggeng/TSC-KNN/tree/master/data
+[data](https://github.com/vvanggeng/TSC-KNN/tree/master/data)
 
 ## 其他问题
 
